@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import altair as alt
+
 st.title('Case dos Atrativos de Brasília - Medidas de Tendência Central')
 
 st.write("Esse painel é parte de um exercício feito em sala de aula para a disciplina de Fundamentos da Estatística Aplicados ao Turismo, CET/UnB.")
